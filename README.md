@@ -55,5 +55,3 @@ The experiments and analysis are documented in a Jupyter notebook/Colab notebook
 ## Results (Example Run on One Article)
 
 Below is the results table generated from running the notebook on a single example article from the test set. Note that a full evaluation would typically run on a larger subset of the dataset.
-
-Yunus Emre Gültepe
